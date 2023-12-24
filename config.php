@@ -3,12 +3,13 @@
 declare(strict_types=1);
 
 /**
- * Configuration
+ * Autoshop Template Configuration
  *
  * @phpversion >= 8.1
  * @package     Application
  * @subpackage  Configuration
  */
+
 $config['navigation'] = [
     [
         'href' => '/',
