@@ -1,7 +1,4 @@
 <?php
-
-declare(strict_types=1);
-
 /**
  * Autoshop Template Configuration
  *
@@ -10,6 +7,11 @@ declare(strict_types=1);
  * @subpackage  Configuration
  */
 
+declare(strict_types=1);
+
+/**
+ * @var array $config Configuration
+ */
 $config['navigation'] = [
     [
         'href' => '/',
